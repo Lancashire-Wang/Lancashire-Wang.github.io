@@ -33,4 +33,10 @@
 - attend Siemens A7813 S7-1500 Advanced Program Course 			        		
 
 
-  
+ ## Interset							       		
+- Read books concerning  Mathmatics and Phsics
+- Go in for travelling
+- Mountain climbing
+- Like photography
+- Take exercise
+- Cooking	 
