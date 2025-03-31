@@ -20,7 +20,7 @@
 - Commission new equipment and finish relavent documents, such as maintenance manual
 
 ## Education							       		
-- M.S., Physics	| The University of Shanghai(_September 2025_)	 			        		
+- M.S., Control Science and Engineering	| The University of Shanghai(_September 2025_)	 			        		
 - B.S., Electrical Engineering and Automation | The University of Hu Zhou (_June 2020_)
 
 
