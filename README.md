@@ -1,15 +1,36 @@
-# Electrical Engineer
 
 
-### Education
-graduate student in Shanghai University in Control Siecnce and Engineering
+# Graduate Student
+
+#### Technical Skills: Python, SQL, MATLAB, Labivew, PLC, Eplan
 
 
-### Work Experience
-Electrical Engineer @ Hasco Magna Electric Drive System Co.LTD
--optimize program
--improve production line efficiency
--improve equipment stability
 
-### Projects
-Turbo Charger Dynamic Balancing Machine 
+## Work Experience
+**Equipment Engineer @ HASCO Magna Electric Drive System (_July 2020 - June 2022_)**
+- Participate in Construction
+- Optimize PLC program in order to improve production line and equipment stability
+- Troubleshooting any other electrical problems
+- Be responsible for daily maintenance 
+
+**Automation Engineer @ Shanghai Dynamic Balancing Machine Manufacturing Company(_August 2022 - October 2024_)**
+- Clarify electrical requirement with Mechnical Engineer and Process Engineer
+- Design Electrical Schematic Diagram with Eplan
+- Develop upper computer software and lower computer program, such as PLC, HMI, Drive, Robot and so on
+- Commission new equipment and finish relavent documents, such as maintenance manual
+
+## Education							       		
+- M.S., Physics	| The University of Shanghai(_September 2025_)	 			        		
+- B.S., Electrical Engineering and Automation | The University of Hu Zhou (_June 2020_)
+
+
+## Projects
+
+### Volkswagen MEB Electric Drive System Production Line
+### Turbo Charger Dynamic Balancing Machine 
+
+## Activity							       		
+- attend Siemens A7813 S7-1500 Advanced Program Course 			        		
+
+
+  
