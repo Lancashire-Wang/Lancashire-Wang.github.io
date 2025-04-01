@@ -9,12 +9,11 @@
 ## Work Experience
 
 **Equipment Engineer @ HASCO Magna Electric Drive System Company (_July 2020 - June 2022_)**
-- Participate in Construction
 - Optimize PLC program in order to improve production line and equipment stability
 - Troubleshooting any other electrical problems
 - Be responsible for daily maintenance 
 
-**Automation Engineer @ Shanghai Dynamic Balancing Machine Manufacturing Company(_August 2022 - October 2024_)**
+**Automation Engineer @ Shanghai Dynamic Balancing Machine Manufacturing Company(_July 2022 - October 2024_)**
 - Clarify electrical requirement with Mechnical Engineer and Process Engineer
 - Design Electrical Schematic Diagram with Eplan
 - Develop upper computer software and lower computer program, such as PLC, HMI, Drive, Robot and so on
