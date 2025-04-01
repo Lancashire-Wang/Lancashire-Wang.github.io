@@ -7,7 +7,7 @@
 
 
 ## Work Experience
-**Equipment Engineer @ HASCO Magna Electric Drive System (_July 2020 - June 2022_)**
+**Equipment Engineer @ HASCO Magna Electric Drive System Company (_July 2020 - June 2022_)**
 - Participate in Construction
 - Optimize PLC program in order to improve production line and equipment stability
 - Troubleshooting any other electrical problems
@@ -20,14 +20,14 @@
 - Commission new equipment and finish relavent documents, such as maintenance manual
 
 ## Education							       		
-- M.S., Control Science and Engineering	| The University of Shanghai(_September 2025_)	 			        		
-- B.S., Electrical Engineering and Automation | The University of Hu Zhou (_June 2020_)
+- M.E., Control Science and Engineering	| The University of Shanghai(_September 2025-_)	 			        		
+- B.E., Electrical Engineering and Automation | The University of Hu Zhou (_September 2016-June 2020_)
 
 
 ## Projects
 
-### Volkswagen MEB Electric Drive System Production Line
-### Turbo Charger Dynamic Balancing Machine 
+** Volkswagen MEB Electric Drive System Production Line** 
+** Turbo Charger Dynamic Balancing Machine **
 
 ## Activity							       		
 - attend Siemens A7813 S7-1500 Advanced Program Course 			        		
