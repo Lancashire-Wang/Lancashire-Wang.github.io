@@ -2,7 +2,7 @@
 
 # Graduate Student
 
-#### Technical Skills: Python, MATLAB, Labivew, PLC, Eplan
+#### Technical Skills: Python, MATLAB, Labivew, PLC, Eplan，CET-6
 
 
 
@@ -21,8 +21,9 @@
 
 ## Education							
 
-- M.E., Control Science and Engineering	| The University of Shanghai(_September 2025-_)	 			        		
-- B.E., Electrical Engineering and Automation | The University of Hu Zhou (_September 2016-June 2020_)
+- M.E., Control Science and Engineering	|  Shanghai University (_September 2025-_)
+- exchange student |National ILAN University (_September 2016-June 2020_)			        		
+- B.E., Electrical Engineering and Automation |  Hu Zhou University (_September 2016-June 2020_)
 
 
 ## Projects
