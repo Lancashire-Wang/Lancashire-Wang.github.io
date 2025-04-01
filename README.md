@@ -42,7 +42,7 @@
 ## Activity			
 
 - attend Siemens A7811  system&maintenance&program Comprehensive Course
--attend Siemens A7813 S7-1500 Advanced Program Course        		
+- attend Siemens A7813 S7-1500 Advanced Program Course        		
 
 
 ## Interest
