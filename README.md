@@ -2,7 +2,7 @@
 
 # Graduate Student
 
-#### Technical Skills: Python, SQL, MATLAB, Labivew, PLC, Eplan
+#### Technical Skills: Python, MATLAB, Labivew, PLC, Eplan
 
 
 
