@@ -1,6 +1,6 @@
 
 
-# Graduate Student
+# Electrical Engineer
 
 #### Technical Skills: Python, MATLAB, Labivew, PLC, Eplan，CET-6
 
@@ -21,7 +21,7 @@
 
 ## Education							
 
-- M.E., Control Science and Engineering	|  Shanghai University (_September 2025-_)
+
 - exchange student |National ILAN University (_September 2016-June 2020_)			        		
 - B.E., Electrical Engineering and Automation |  Hu Zhou University (_September 2016-June 2020_)
 
