@@ -21,9 +21,9 @@
 
 ## Education							
 
-
-- exchange student |National ILAN University (_September 2018-January 2019_)			        		
 - B.E., Electrical Engineering and Automation |  Hu Zhou University (_September 2016-June 2020_)
+- exchange student |National ILAN University (_September 2018-January 2019_)			        		
+
 
 
 ## Projects
@@ -39,6 +39,9 @@
 - Design adaptive filters to process low SNR sensor signals
 - Design 2DOF PID controllers to make turbine wheel speed  track reference inputs precisely
 - Design algorithm to calculate dynamic balancing data precisely and robustly
+
+ **Dynamic Balancing Software**
+ - Based on labivew and c language
 
 ## Activity			
 
