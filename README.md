@@ -22,7 +22,7 @@
 ## Education							
 
 
-- exchange student |National ILAN University (_September 2016-June 2020_)			        		
+- exchange student |National ILAN University (_September 2018-January 2019_)			        		
 - B.E., Electrical Engineering and Automation |  Hu Zhou University (_September 2016-June 2020_)
 
 
