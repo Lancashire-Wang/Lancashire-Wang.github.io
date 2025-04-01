@@ -29,20 +29,20 @@
 
 **Volkswagen MEB Electric Drive System Production Line** 
 
--Visual positioning for grasping Inverter PCB by industrial robots
--Design 2DOF PID controllers to control vehicle coolant temperature
--Visual inspection for workpiece gumming by industrial cameras
+- Visual positioning for grasping Inverter PCB by industrial robots
+- Design 2DOF PID controllers to control vehicle coolant temperature
+- Visual inspection for workpiece gumming by industrial cameras
 
 
 **Turbo Charger Dynamic Balancing Machine**
--Design adaptive filters to process low SNR sensor signals
--Design 2DOF PID controllers to make turbine wheel speed  track reference inputs precisely
--Design algorithm to calculate dynamic balancing data precisely and robustly
+- Design adaptive filters to process low SNR sensor signals
+- Design 2DOF PID controllers to make turbine wheel speed  track reference inputs precisely
+- Design algorithm to calculate dynamic balancing data precisely and robustly
 
 ## Activity			
 
 - attend Siemens A7811  system&maintenance&program Comprehensive Course
-- attend Siemens A7813 S7-1500 Advanced Program Course        		
+-attend Siemens A7813 S7-1500 Advanced Program Course        		
 
 
  ## Interest				
