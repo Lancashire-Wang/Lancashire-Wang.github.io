@@ -39,7 +39,7 @@
 
  ## Interest				
  
-- Read books concerning  Mathmatics and Phsics
+- Read books concerning  Mathmatics and Physics
 - Go in for travelling
 - Mountain climbing
 - Like photography
