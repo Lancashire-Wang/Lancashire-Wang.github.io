@@ -2,7 +2,7 @@
 
 # Electrical Engineer
 
-#### Technical Skills: Python, MATLAB, Labivew, PLC, Eplan，CET-6
+#### Technical Skills: Python, MATLAB, Labivew,C++, PLC, Eplan，CET-6
 
 
 
